@@ -1,7 +1,7 @@
 # Java-Script-D3.JS
 Tech Stack : JavaScript, HTML, CSS, and D3.js
 
-![](Dashboard.jpeg)
+![](Dashboard.JPG)
 
 Automatic Table and Multiple Search
     # To use the UFO dataset provided in the form of an array of JavaScript objects, and write code that appends a table to your web page and then adds new rows of data for each UFO sighting.
